@@ -6,3 +6,12 @@ This is useful in case that you need to log a response and the final `statusCode
 
 More details about `express-mug` 👩‍💻:
 https://www.npmjs.com/package/express-mung
+
+## Install
+
+To install just clone the repository and run:
+
+```sh
+yarn # to install dependencies
+yarn dev # to run the server
+```
